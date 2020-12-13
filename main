@@ -1,14 +1,29 @@
-<!doctype html>
+<!doctype HTML>
 <html>
 <head>
-<title>main</title>
+<title>MooTangClan.io/main</title>
 </head>
 
+<header>
+
+</header>
+<nav>
+<button onclick="window.location.href='https://www.youtube.com/worldofwarcraft';">About</button>
+<button>Roster</button>
+<button>Ratings</button>
+<button>Roster</button>
+<button>Raid</button>
+<button>PVP</button>
+</nav>
+
 <body>
-<h1> Moo Tang Clan</h1>
-<p> Welcome to our guild </p>
+<h1> Welcome to the Moo Tang Clan</h1>
+<h2> About us </h2>
+<p> The Moo Tang Clan-Bleeding Hollow is a Raiding Guild in the game World of Warcraft on the realm Bleeding Hollow <br>
+Here you may use this webpage as a guild tool to help track progress and find information on characters in the guild.</p> 
 </body>
 
-<foot>
-</foot>
+<footer>
+</footer>
+
 </html>
